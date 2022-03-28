@@ -1,16 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
 
+<img align="left" width="50%" src="https://github.com/AmalMohan-DevRepo/AmalMohan-DevRepo/blob/main/4884785.jpg" height="50%"/> 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amal Mohan M </h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
+<h4 align="center">I am a tech enthusiast who enjoys developing, debugging and ﬁxing issues no matter how hard it is, I just go for it!</h4>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning the **MERN Stack.**
+  🌱 I’m currently learning the **MERN Stack.**
 
-- 👨‍💻 Protfolio **[My Portfolio](https://amalsportfolio.netlify.app/)**
+  👨‍💻 Protfolio **[My Portfolio](https://amalsportfolio.netlify.app/)**
 
-- 📫 How to reach me **mohanamalm@gmail.com**
+  📫 How to reach me **mohanamalm@gmail.com**
+
+<br>
+<br>
 
 ## 🚀 Languages and Tools:
 
