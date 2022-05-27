@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-  🌱 I’m currently learning the **MERN Stack.**
+  🌱 I’m currently learning the **VUE JS**
 
   👨‍💻 Protfolio **[My Portfolio](https://amalsportfolio.netlify.app/)**
 
