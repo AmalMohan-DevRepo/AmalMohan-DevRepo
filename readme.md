@@ -6,7 +6,7 @@
 
   🌱 I’m currently learning <a href="https://vuejs.org/" target="_blank"> <img src="https://sfc.vuejs.org/logo.svg" width="20" height="20"/> </a>
 
-  👨‍💻 Protfolio **[My Portfolio](https://amalsportfolio.netlify.app/)**
+  👨‍💻 Protfolio 
 
   📫 How to reach me **mohanamalm@gmail.com**
 
